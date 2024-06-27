@@ -1,0 +1,3 @@
+# sorubankasii
+ 
+Yapmış olduğum projede Login sayfası kullanıcının giriş yapması için oluşturulmuştur. Register sayfasından öğrenci veya öğretmen rolünü seçerek kayıt olabilir. Student sayfası öğrencinin girdiği sınavları ve girmesi için öğrenciye hazırlanan sınavları göstermektedir. Teacher sayfası sınav ekleme ve sınav menüsünü görüntülemektedir. Database olarak Firestore Database kullandım login ve register için firestore authentication ile uyum sağladım. AntDesign kullandım.
